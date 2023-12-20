@@ -57,7 +57,7 @@ export const CAREERS = [
   {
     position: "Bachelor's Degree",
     company: 'Stanford University',
-    logo: '/images/careers/Univ.jpg',
+    logo: '/images/careers/Univ.png',
     location: '',
     location_type: '',
     type: '',
